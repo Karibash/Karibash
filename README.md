@@ -1,1 +1,1 @@
-<img src="/github-metrics.svg" alt="Metrics">
+[<img src="/github-metrics.svg" alt="Metrics">](#)
